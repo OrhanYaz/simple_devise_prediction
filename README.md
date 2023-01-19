@@ -1,0 +1,1 @@
+# simple_devise_prediction
